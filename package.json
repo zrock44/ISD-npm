@@ -1,6 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Bryce Stacy",
+	"description": "A simple npm package",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"package",
+		"json"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
